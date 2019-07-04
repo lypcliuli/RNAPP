@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">mQkr7LW0ufgsSljOyTiyfiAoJ132BJXPDA9eH</string>
+    <string name="app_name">ZhangFeiApp</string>
+</resources>
