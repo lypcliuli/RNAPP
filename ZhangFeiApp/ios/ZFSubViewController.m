@@ -15,7 +15,7 @@
 #import <React/RCTRootView.h>
 
 //引入SplashScreen库
-#import "RNSplashScreen.h"
+//#import "RNSplashScreen.h"
 
 @interface ZFSubViewController ()
 
@@ -35,7 +35,7 @@
     rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];
     self.view = rootView;
     //运行SplashScreen库
-    [RNSplashScreen show];
+//    [RNSplashScreen show];
     // Do any additional setup after loading the view.
 }
 
